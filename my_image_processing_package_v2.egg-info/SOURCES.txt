@@ -1,0 +1,17 @@
+README.md
+setup.py
+my_image_processing_package_v2.egg-info/PKG-INFO
+my_image_processing_package_v2.egg-info/SOURCES.txt
+my_image_processing_package_v2.egg-info/dependency_links.txt
+my_image_processing_package_v2.egg-info/requires.txt
+my_image_processing_package_v2.egg-info/top_level.txt
+processing/__init__.py
+processing/combination.py
+processing/transformation.py
+tests/__init__.py
+tests/test_find_difference.py
+tests/test_images.py
+tests/test_transfer_histogram.py
+utils/__init__.py
+utils/io.py
+utils/plot.py
