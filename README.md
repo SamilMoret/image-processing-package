@@ -2,6 +2,9 @@
 
 Este projeto permite realizar operações de processamento de imagens como combinar imagens, redimensionar e aplicar filtros, transferir histogramas e calcular diferenças entre imagens.
 
+
+![Demonstração do Pacote de Processamento de Imagens ](https://github.com/SamilMoret/image-processing-package/blob/main/Image_Processing_vi2.gif)
+
 ## Índice
 
 - [Instalação](#instalação)
