@@ -50,12 +50,19 @@ Para usar as funcionalidades deste pacote, você deve importar os módulos neces
 ## Funcionalidades
 
 Combinação de Imagens: Combina duas imagens lado a lado.
+
 Redimensionamento: Redimensiona uma imagem para um tamanho específico.
+
 Aplicação de Filtros: Aplica filtros às imagens, como escala de cinza.
+
 Rotação de Imagem: Rotaciona a imagem por um número de graus especificado.
+
 Plotagem de Imagens: Exibe imagens utilizando matplotlib.
+
 Adição de Texto: Adiciona texto a uma imagem em uma posição específica.
+
 Transferência de Histograma: Transfere o histograma de cores de uma imagem para outra.
+
 Cálculo de Diferenças: Compara duas imagens e destaca as diferenças.
 
 ## Exemplos de Uso
